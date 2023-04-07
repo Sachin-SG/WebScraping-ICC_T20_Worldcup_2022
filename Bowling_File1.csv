@@ -1,0 +1,308 @@
+,Bowlers,O,M,R,W,Econ,Dots
+0,Mitchell StarcMA Starc,4,0,36,0,9,5
+1,Josh HazlewoodJR Hazlewood,4,0,41,2,10.25,8
+2,Pat CumminsPJ Cummins,4,0,46,0,11.5,8
+3,Marcus StoinisMP Stoinis,4,0,38,0,9.5,3
+4,Adam ZampaA Zampa,4,0,39,1,9.75,4
+5,Trent BoultTA Boult,4,0,24,2,6,13
+6,Tim SoutheeTG Southee,2.1,0,6,3,2.76,10
+7,Mitch SantnerMJ Santner,4,0,31,3,7.75,10
+8,Lockie FergusonLH Ferguson,3,0,20,1,6.66,9
+9,Ish SodhiIS Sodhi,4,0,29,1,7.25,8
+10,Binura FernandoB Fernando,4,0,27,1,6.75,10
+11,Lahiru KumaraCBRLS Kumara,2,0,12,1,6,6
+12,Maheesh TheekshanaM Theekshana,4,0,19,2,4.75,8
+13,Chamika KarunaratneC Karunaratne,4,0,29,1,7.25,7
+14,Wanindu HasarangaW Hasaranga,4,0,25,2,6.25,6
+15,Dhananjaya de SilvaDM de Silva,2,0,13,1,6.5,3
+16,Joshua LittleJB Little,4,0,45,0,11.25,5
+17,Mark AdairMR Adair,2,0,16,0,8,2
+18,Barry McCarthyBJ McCarthy,2,0,16,0,8,4
+19,Gareth DelanyGJ Delany,4,0,28,1,7,8
+20,Curtis CampherC Campher,1,0,8,0,8,2
+21,Simi SinghSimi Singh,2,0,20,0,10,3
+22,Bhuvneshwar KumarB Kumar,4,0,22,1,5.5,17
+23,Arshdeep SinghArshdeep Singh,4,0,32,3,8,10
+24,Mohammed ShamiMohammed Shami,4,0,25,1,6.25,14
+25,Hardik PandyaHH Pandya,4,0,30,3,7.5,10
+26,Ravichandran AshwinR Ashwin,3,0,23,0,7.66,5
+27,Axar PatelAR Patel,1,0,21,0,21,2
+28,Shaheen Shah AfridiShaheen Shah Afridi,4,0,34,0,8.5,7
+29,Naseem ShahNaseem Shah,4,0,23,1,5.75,10
+30,Haris RaufHaris Rauf,4,0,36,2,9,11
+31,Shadab KhanShadab Khan,4,0,21,0,5.25,10
+32,Mohammad NawazMohammad Nawaz,4,0,42,2,10.5,8
+33,Fred KlaassenFJ Klaassen,4,0,33,1,8.25,10
+34,Colin AckermannCN Ackermann,1,0,4,0,4,2
+35,Paul van MeekerenPA van Meekeren,4,0,21,2,5.25,10
+36,Bas de LeedeBFW de Leede,3,0,29,2,9.66,9
+37,Tim PringleTJG Pringle,2,0,10,1,5,4
+38,Shariz AhmadShariz Ahmad,3,0,27,1,9,5
+39,Logan van BeekL van Beek,3,0,12,1,4,7
+40,Taskin AhmedTaskin Ahmed,4,0,25,4,6.25,16
+41,Hasan MahmudHasan Mahmud,4,1,15,2,3.75,16
+42,Shakib Al HasanS Al Hasan,4,0,32,1,8,6
+43,Mustafizur RahmanMustafizur Rahman,4,0,20,0,5,14
+44,Soumya SarkarSoumya Sarkar,3,0,29,1,9.66,5
+45,Musaddek HossainMusaddek Hossain,1,0,14,0,14,0
+46,Kagiso RabadaK Rabada,2,0,20,0,10,4
+47,Wayne ParnellWD Parnell,2,0,6,1,3,9
+48,Lungi NgidiL Ngidi,2,0,20,2,10,6
+49,Keshav MaharajKA Maharaj,1,0,10,0,10,1
+50,Anrich NortjeA Nortje,2,0,10,1,5,5
+51,Tendai ChataraTL Chatara,1,0,23,0,23,0
+52,Richard NgaravaR Ngarava,1,0,17,0,17,2
+53,Sikandar RazaSikandar Raza,1,0,11,0,11,1
+54,Sean WilliamsSC Williams,0,0,0,0,0,0
+55,Josh HazlewoodJR Hazlewood,4,0,26,1,6.5,13
+56,Pat CumminsPJ Cummins,4,0,36,1,9,12
+57,Mitchell StarcMA Starc,4,0,23,1,5.75,13
+58,Ashton AgarAC Agar,4,0,25,1,6.25,8
+59,Marcus StoinisMP Stoinis,2,0,17,0,8.5,1
+60,Mitchell MarshMR Marsh,1,0,14,0,14,1
+61,Glenn MaxwellGJ Maxwell,1,0,5,1,5,2
+62,Binura FernandoB Fernando,0.5,0,5,0,6,2
+63,Dhananjaya de SilvaDM de Silva,2.1,0,18,1,8.3,4
+64,Lahiru KumaraCBRLS Kumara,3.3,0,22,0,6.28,15
+65,Chamika KarunaratneC Karunaratne,3,0,20,1,6.66,6
+66,Maheesh TheekshanaM Theekshana,3,0,23,1,7.66,11
+67,Wanindu HasarangaW Hasaranga,3,0,53,0,17.66,0
+68,Dasun ShanakaMD Shanaka,1,0,10,0,10,2
+69,Ben StokesBA Stokes,2.2,0,8,1,3.42,7
+70,Chris WoakesCR Woakes,3,0,41,0,13.66,4
+71,Mark WoodMA Wood,4,0,34,3,8.5,13
+72,Sam CurranSM Curran,3,0,31,2,10.33,7
+73,Adil RashidAU Rashid,4,0,24,0,6,6
+74,Liam LivingstoneLS Livingstone,3,0,17,3,5.66,5
+75,Joshua LittleJB Little,3,0,16,2,5.33,11
+76,Mark AdairMR Adair,2,0,10,0,5,5
+77,Barry McCarthyBJ McCarthy,3,0,20,1,6.66,7
+78,Fionn HandF Hand,2,0,17,1,8.5,6
+79,Gareth DelanyGJ Delany,3.3,0,33,0,9.42,5
+80,George DockrellGH Dockrell,1,0,5,1,5,2
+81,Taskin AhmedTaskin Ahmed,3,0,46,1,15.33,7
+82,Mehidy MirazMehidy Hasan Miraz,3,0,32,0,10.66,4
+83,Hasan MahmudHasan Mahmud,4,0,36,1,9,11
+84,Mustafizur RahmanMustafizur Rahman,4,0,25,0,6.25,7
+85,Musaddek HossainMusaddek Hossain,2,0,16,0,8,5
+86,Shakib Al HasanS Al Hasan,3,0,33,2,11,7
+87,Afif HossainAfif Hossain,1,0,11,1,11,1
+88,Kagiso RabadaK Rabada,3,0,24,1,8,8
+89,Wayne ParnellWD Parnell,2,0,18,0,9,3
+90,Anrich NortjeA Nortje,3.3,0,10,4,2.85,16
+91,Keshav MaharajKA Maharaj,4,0,24,1,6,6
+92,Tabraiz ShamsiT Shamsi,4,0,20,3,5,12
+93,Fred KlaassenFJ Klaassen,4,0,33,1,8.25,9
+94,Tim PringleTJG Pringle,4,0,30,0,7.5,6
+95,Paul van MeekerenPA van Meekeren,4,0,32,1,8,9
+96,Bas de LeedeBFW de Leede,3,0,33,0,11,6
+97,Logan van BeekL van Beek,4,0,45,0,11.25,3
+98,Shariz AhmadShariz Ahmad,1,0,5,0,5,2
+99,Bhuvneshwar KumarB Kumar,3,2,9,2,3,14
+100,Arshdeep SinghArshdeep Singh,4,0,37,2,9.25,9
+101,Mohammed ShamiMohammed Shami,4,0,27,1,6.75,10
+102,Axar PatelAR Patel,4,0,18,2,4.5,11
+103,Hardik PandyaHH Pandya,1,0,9,0,9,1
+104,Ravichandran AshwinR Ashwin,4,0,21,2,5.25,13
+105,Shaheen Shah AfridiShaheen Shah Afridi,4,0,29,0,7.25,9
+106,Naseem ShahNaseem Shah,4,0,34,0,8.5,7
+107,Mohammad WasimMohammad Wasim,4,0,24,4,6,16
+108,Haris RaufHaris Rauf,4,1,12,1,3,15
+109,Shadab KhanShadab Khan,4,0,23,3,5.75,8
+110,Richard NgaravaR Ngarava,4,0,24,0,6,15
+111,Blessing MuzarabaniB Muzarabani,4,0,18,1,4.5,11
+112,Brad EvansB Evans,4,0,25,2,6.25,12
+113,Sikandar RazaSikandar Raza,4,0,25,3,6.25,13
+114,Luke JongweLM Jongwe,1,0,10,1,10,2
+115,Sean WilliamsSC Williams,2,0,15,0,7.5,1
+116,Ryan BurlRP Burl,1,0,7,0,7,0
+117,Maheesh TheekshanaM Theekshana,4,0,35,1,8.75,7
+118,Kasun RajithaCAK Rajitha,4,0,23,2,5.75,16
+119,Dhananjaya de SilvaDM de Silva,2,0,14,1,7,4
+120,Wanindu HasarangaW Hasaranga,4,0,22,1,5.5,9
+121,Lahiru KumaraCBRLS Kumara,3,0,37,1,12.33,2
+122,Chamika KarunaratneC Karunaratne,3,0,34,0,11.33,5
+123,Tim SoutheeTG Southee,4,1,12,1,3,18
+124,Trent BoultTA Boult,4,0,13,4,3.25,18
+125,Lockie FergusonLH Ferguson,4,0,35,1,8.75,11
+126,Mitch SantnerMJ Santner,4,0,21,2,5.25,13
+127,Ish SodhiIS Sodhi,3.2,0,21,2,6.3,11
+128,Richard NgaravaR Ngarava,4,0,24,2,6,11
+129,Blessing MuzarabaniB Muzarabani,2,0,13,2,6.5,8
+130,Tendai ChataraTL Chatara,3,0,18,0,6,7
+131,Sikandar RazaSikandar Raza,4,0,35,1,8.75,2
+132,Brad EvansB Evans,3,0,32,0,10.66,2
+133,Wessly MadhevereW Madhevere,2,0,18,0,9,0
+134,Sean WilliamsSC Williams,2,0,10,1,5,4
+135,Taskin AhmedTaskin Ahmed,4,1,19,3,4.75,15
+136,Hasan MahmudHasan Mahmud,4,0,36,0,9,8
+137,Musaddek HossainMusaddek Hossain,4,0,34,2,8.5,11
+138,Mustafizur RahmanMustafizur Rahman,4,0,15,2,3.75,11
+139,Shakib Al HasanS Al Hasan,4,0,34,0,8.5,5
+140,Shaheen Shah AfridiShaheen Shah Afridi,4,0,19,1,4.75,13
+141,Naseem ShahNaseem Shah,4,0,11,1,2.75,15
+142,Mohammad WasimMohammad Wasim,3,0,15,2,5,10
+143,Haris RaufHaris Rauf,3,0,10,1,3.33,11
+144,Shadab KhanShadab Khan,4,0,22,3,5.5,11
+145,Mohammad NawazMohammad Nawaz,2,0,11,0,5.5,3
+146,Fred KlaassenFJ Klaassen,3,0,26,0,8.66,4
+147,Paul van MeekerenPA van Meekeren,4,0,19,1,4.75,15
+148,Brandon GloverBD Glover,2.5,0,22,2,7.76,9
+149,Tim PringleTJG Pringle,1,0,12,0,12,1
+150,Logan van BeekL van Beek,2,0,9,0,4.5,5
+151,Roelof van der MerweRE van der Merwe,1,0,7,0,7,1
+152,Wayne ParnellWD Parnell,4,1,15,3,3.75,16
+153,Kagiso RabadaK Rabada,4,0,26,0,6.5,13
+154,Lungi NgidiL Ngidi,4,0,29,4,7.25,10
+155,Anrich NortjeA Nortje,4,0,23,1,5.75,12
+156,Keshav MaharajKA Maharaj,3,0,28,0,9.33,5
+157,Aiden MarkramAK Markram,1,0,5,0,5,1
+158,Bhuvneshwar KumarB Kumar,3.4,0,21,0,5.72,13
+159,Arshdeep SinghArshdeep Singh,4,0,25,2,6.25,13
+160,Mohammed ShamiMohammed Shami,4,0,13,1,3.25,15
+161,Hardik PandyaHH Pandya,4,0,29,1,7.25,8
+162,Ravichandran AshwinR Ashwin,4,0,43,1,10.75,5
+163,Joshua LittleJB Little,4,0,21,2,5.25,13
+164,Mark AdairMR Adair,4,0,59,0,14.75,6
+165,Barry McCarthyBJ McCarthy,4,0,29,3,7.25,7
+166,Gareth DelanyGJ Delany,3,0,29,0,9.66,10
+167,Fionn HandF Hand,1,0,15,0,15,2
+168,George DockrellGH Dockrell,4,0,24,0,6,8
+169,Josh HazlewoodJR Hazlewood,3,0,24,0,8,8
+170,Pat CumminsPJ Cummins,4,0,28,2,7,14
+171,Glenn MaxwellGJ Maxwell,2.1,0,14,2,6.46,6
+172,Mitchell StarcMA Starc,4,1,43,2,10.75,11
+173,Adam ZampaA Zampa,4,0,19,2,4.75,9
+174,Marcus StoinisMP Stoinis,1,0,6,1,6,2
+175,Kasun RajithaCAK Rajitha,4,0,31,1,7.75,11
+176,Pramod MadushanP Madushan,3,0,24,0,8,7
+177,Lahiru KumaraCBRLS Kumara,4,0,30,2,7.5,12
+178,Maheesh TheekshanaM Theekshana,4,0,33,0,8.25,5
+179,Wanindu HasarangaW Hasaranga,4,0,13,3,3.25,12
+180,Dhananjaya de SilvaDM de Silva,1,0,9,1,9,1
+181,Fazalhaq FarooqiFazalhaq Farooqi,3.3,1,22,0,6.28,11
+182,Mujeeb ZadranMujeeb Zadran,4,0,24,2,6,12
+183,Fareed MalikFarid Malik,2,0,25,0,12.5,3
+184,Rashid KhanRashid Khan,4,0,31,2,7.75,10
+185,Azmat OmarzaiAzmat Omarzai,2,0,17,0,8.5,2
+186,Mohammad NabiMohammad Nabi,2,0,16,0,8,2
+187,Gulbadin NaibGulbadin Naib,1,0,12,0,12,1
+188,Trent BoultTA Boult,4,0,40,0,10,8
+189,Tim SoutheeTG Southee,4,0,43,1,10.75,9
+190,Mitch SantnerMJ Santner,4,0,25,1,6.25,8
+191,Lockie FergusonLH Ferguson,4,0,45,2,11.25,6
+192,Ish SodhiIS Sodhi,4,0,23,1,5.75,10
+193,Moeen AliMM Ali,1,0,4,0,4,3
+194,Chris WoakesCR Woakes,4,0,33,2,8.25,9
+195,Adil RashidAU Rashid,4,0,33,0,8.25,6
+196,Sam CurranSM Curran,4,0,26,2,6.5,9
+197,Mark WoodMA Wood,3,0,25,1,8.33,8
+198,Liam LivingstoneLS Livingstone,3,0,26,0,8.66,4
+199,Ben StokesBA Stokes,1,0,10,1,10,2
+200,Fred KlaassenFJ Klaassen,4,0,17,1,4.25,17
+201,Paul van MeekerenPA van Meekeren,4,0,29,3,7.25,13
+202,Brandon GloverBD Glover,4,1,29,2,7.25,15
+203,Logan van BeekL van Beek,2.2,0,17,2,7.28,8
+204,Bas de LeedeBFW de Leede,4,0,14,2,3.5,11
+205,Roelof van der MerweRE van der Merwe,1,0,8,0,8,2
+206,Tendai ChataraTL Chatara,4,0,22,0,5.5,14
+207,Richard NgaravaR Ngarava,4,0,18,2,4.5,15
+208,Blessing MuzarabaniB Muzarabani,4,0,23,2,5.75,14
+209,Sean WilliamsSC Williams,3,0,21,0,7,8
+210,Sikandar RazaSikandar Raza,1,0,6,0,6,0
+211,Luke JongweLM Jongwe,2,0,25,1,12.5,3
+212,Taskin AhmedTaskin Ahmed,4,0,15,0,3.75,16
+213,Shoriful IslamShoriful Islam,4,0,57,0,14.25,7
+214,Hasan MahmudHasan Mahmud,4,0,47,3,11.75,7
+215,Mustafizur RahmanMustafizur Rahman,4,0,31,0,7.75,9
+216,Shakib Al HasanS Al Hasan,4,0,33,2,8.25,3
+217,Bhuvneshwar KumarB Kumar,3,0,27,0,9,7
+218,Arshdeep SinghArshdeep Singh,4,0,38,2,9.5,10
+219,Mohammed ShamiMohammed Shami,3,0,25,1,8.33,7
+220,Axar PatelAR Patel,1,0,6,0,6,2
+221,Ravichandran AshwinR Ashwin,2,0,19,0,9.5,4
+222,Hardik PandyaHH Pandya,3,0,28,2,9.33,8
+223,Wayne ParnellWD Parnell,4,0,31,1,7.75,10
+224,Kagiso RabadaK Rabada,4,0,44,1,11,7
+225,Lungi NgidiL Ngidi,4,0,32,1,8,11
+226,Anrich NortjeA Nortje,4,0,41,4,10.25,11
+227,Tabraiz ShamsiT Shamsi,4,0,36,1,9,8
+228,Shaheen Shah AfridiShaheen Shah Afridi,3,0,14,3,4.66,11
+229,Naseem ShahNaseem Shah,3,0,19,1,6.33,10
+230,Haris RaufHaris Rauf,3,0,44,1,14.66,2
+231,Mohammad WasimMohammad Wasim,2,0,13,1,6.5,3
+232,Shadab KhanShadab Khan,2,0,16,2,8,5
+233,Mohammad NawazMohammad Nawaz,1,0,2,0,2,4
+234,Joshua LittleJB Little,4,0,22,3,5.5,10
+235,Mark AdairMR Adair,4,0,39,1,9.75,9
+236,Barry McCarthyBJ McCarthy,4,0,46,0,11.5,4
+237,Gareth DelanyGJ Delany,4,0,30,2,7.5,11
+238,Fionn HandF Hand,2,0,22,0,11,2
+239,George DockrellGH Dockrell,2,0,18,0,9,4
+240,Trent BoultTA Boult,4,0,38,0,9.5,8
+241,Tim SoutheeTG Southee,4,0,29,2,7.25,8
+242,Lockie FergusonLH Ferguson,4,0,22,3,5.5,10
+243,Mitch SantnerMJ Santner,4,0,26,2,6.5,12
+244,Ish SodhiIS Sodhi,4,0,31,2,7.75,10
+245,Fazalhaq FarooqiFazalhaq Farooqi,4,0,29,2,7.25,13
+246,Mujeeb ZadranMujeeb Zadran,4,0,42,1,10.5,5
+247,Naveen-ul-Haq MuridNaveen-ul-Haq Murid,4,0,21,3,5.25,11
+248,Gulbadin NaibGulbadin Naib,3,0,31,0,10.33,6
+249,Rashid KhanRashid Khan,4,0,29,1,7.25,9
+250,Mohammad NabiMohammad Nabi,1,0,14,0,14,1
+251,Josh HazlewoodJR Hazlewood,4,0,33,2,8.25,13
+252,Pat CumminsPJ Cummins,4,0,22,0,5.5,12
+253,Marcus StoinisMP Stoinis,2,0,26,0,13,2
+254,Kane RichardsonKW Richardson,4,0,48,1,12,4
+255,Adam ZampaA Zampa,4,0,22,2,5.5,11
+256,Cameron GreenC Green,2,0,13,0,6.5,7
+257,Ben StokesBA Stokes,3,0,24,1,8,8
+258,Chris WoakesCR Woakes,3,0,24,1,8,5
+259,Mark WoodMA Wood,3,0,26,3,8.66,8
+260,Sam CurranSM Curran,4,0,27,1,6.75,10
+261,Adil RashidAU Rashid,4,0,16,1,4,11
+262,Liam LivingstoneLS Livingstone,2,0,16,0,8,2
+263,Moeen AliMM Ali,1,0,5,0,5,1
+264,Maheesh TheekshanaM Theekshana,4,0,22,0,5.5,11
+265,Kasun RajithaCAK Rajitha,3,0,40,0,13.33,4
+266,Lahiru KumaraCBRLS Kumara,3.4,0,24,2,6.54,11
+267,Wanindu HasarangaW Hasaranga,4,0,23,2,5.75,11
+268,Dhananjaya de SilvaDM de Silva,4,0,24,2,6,7
+269,Charith AsalankaKIC Asalanka,1,0,8,0,8,1
+270,Wayne ParnellWD Parnell,4,0,32,0,8,10
+271,Kagiso RabadaK Rabada,3,0,37,0,12.33,6
+272,Lungi NgidiL Ngidi,3,0,35,0,11.66,3
+273,Anrich NortjeA Nortje,4,0,10,1,2.5,14
+274,Keshav MaharajKA Maharaj,4,0,27,2,6.75,12
+275,Aiden MarkramAK Markram,2,0,16,1,8,3
+276,Fred KlaassenFJ Klaassen,4,0,20,2,5,15
+277,Paul van MeekerenPA van Meekeren,3,0,33,1,11,5
+278,Colin AckermannCN Ackermann,3,0,16,0,5.33,6
+279,Roelof van der MerweRE van der Merwe,2,0,19,0,9.5,2
+280,Brandon GloverBD Glover,2,0,9,3,4.5,5
+281,Logan van BeekL van Beek,3,0,23,0,7.66,4
+282,Bas de LeedeBFW de Leede,3,0,25,2,8.33,4
+283,Shaheen Shah AfridiShaheen Shah Afridi,4,0,22,4,5.5,13
+284,Naseem ShahNaseem Shah,3,0,15,0,5,9
+285,Mohammad WasimMohammad Wasim,2,0,19,0,9.5,5
+286,Haris RaufHaris Rauf,4,0,21,1,5.25,11
+287,Shadab KhanShadab Khan,4,0,30,2,7.5,8
+288,Iftikhar AhmedIftikhar Ahmed,3,0,15,1,5,9
+289,Taskin AhmedTaskin Ahmed,3,0,26,0,8.66,10
+290,Nasum AhmedNasum Ahmed,4,0,14,1,3.5,13
+291,Shakib Al HasanS Al Hasan,4,0,35,1,8.75,6
+292,Mustafizur RahmanMustafizur Rahman,4,0,21,1,5.25,8
+293,Ebadot HossainEbadat Hossain,3.1,0,25,1,7.89,7
+294,Richard NgaravaR Ngarava,4,1,44,1,11,12
+295,Tendai ChataraTL Chatara,4,0,34,0,8.5,5
+296,Blessing MuzarabaniB Muzarabani,4,0,50,1,12.5,5
+297,Wellington MasakadzaWP Masakadza,2,0,12,0,6,5
+298,Ryan BurlRP Burl,1,0,14,0,14,1
+299,Sikandar RazaSikandar Raza,3,0,18,1,6,5
+300,Sean WilliamsSC Williams,2,0,9,2,4.5,6
+301,Bhuvneshwar KumarB Kumar,3,1,11,1,3.66,14
+302,Arshdeep SinghArshdeep Singh,2,0,9,1,4.5,9
+303,Mohammed ShamiMohammed Shami,2,0,14,2,7,7
+304,Hardik PandyaHH Pandya,3,0,16,2,5.33,10
+305,Ravichandran AshwinR Ashwin,4,0,22,3,5.5,13
+306,Axar PatelAR Patel,3.2,0,40,1,12,4

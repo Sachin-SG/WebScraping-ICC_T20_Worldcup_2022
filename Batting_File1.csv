@@ -1,0 +1,679 @@
+,Batsmen,R,B,4s,6s,SR
+0,Finn AllenFH Allen  b Josh Hazlewood,42,16,5,3,262.5
+1,Devon ConwayDP Conway  NOT OUT,92,58,7,2,158.62
+2,Kane WilliamsonKS Williamson  lbw Adam Zampa,23,23,1,1,100
+3,Glenn PhillipsGD Phillips  c & b Josh Hazlewood,12,10,2,0,120
+4,Jimmy NeeshamJDS Neesham  NOT OUT,26,13,0,2,200
+5,Mark ChapmanMS Chapman,-,-,-,-,-
+6,Mitch SantnerMJ Santner,-,-,-,-,-
+7,Ish SodhiIS Sodhi,-,-,-,-,-
+8,Tim SoutheeTG Southee,-,-,-,-,-
+9,Lockie FergusonLH Ferguson,-,-,-,-,-
+10,Trent BoultTA Boult,-,-,-,-,-
+11,Extras (w 5),5,,,,
+12,"Total (3 wickets, 20 overs)",200,,,,
+13,David WarnerDA Warner  b Tim Southee,5,6,1,0,83.33
+14,Aaron FinchAJ Finch  c Kane Williamson b Mitch Santner,13,11,1,1,118.18
+15,Mitchell MarshMR Marsh  c Jimmy Neesham b Tim Southee,16,12,2,1,133.33
+16,Glenn MaxwellGJ Maxwell  b Ish Sodhi,28,20,3,1,140
+17,Marcus StoinisMP Stoinis  c Glenn Phillips b Mitch Santner,7,14,0,0,50
+18,Tim DavidTH David  c Jimmy Neesham b Mitch Santner,11,8,0,1,137.5
+19,Matthew WadeMS Wade  c Devon Conway b Lockie Ferguson,2,4,0,0,50
+20,Pat CumminsPJ Cummins  c Devon Conway b Tim Southee,21,18,2,1,116.66
+21,Mitchell StarcMA Starc  b Trent Boult,4,7,0,0,57.14
+22,Adam ZampaA Zampa  b Trent Boult,0,2,0,0,0
+23,Josh HazlewoodJR Hazlewood  NOT OUT,1,1,0,0,100
+24,"Extras (w 2, lb 1)",3,,,,
+25,"Total (all out, 17.1 overs)",111,,,,
+26,Paul StirlingPR Stirling  c Bhanuka Rajapaksa b Dhananjaya de Silva,34,25,4,1,136
+27,Andrew BalbirnieA Balbirnie  b Lahiru Kumara,1,5,0,0,20
+28,Lorcan TuckerLJ Tucker  b Maheesh Theekshana,10,11,1,0,90.9
+29,Harry TectorHT Tector  c Dasun Shanaka b Binura Fernando,45,42,2,1,107.14
+30,Curtis CampherC Campher  c Charith Asalanka b Chamika Karunaratne,2,4,0,0,50
+31,George DockrellGH Dockrell  b Maheesh Theekshana,14,16,0,0,87.5
+32,Gareth DelanyGJ Delany  c Chamika Karunaratne b Wanindu Hasaranga,9,6,1,0,150
+33,Mark AdairMR Adair  c Chamika Karunaratne b Wanindu Hasaranga,0,1,0,0,0
+34,Simi SinghSimi Singh  NOT OUT,7,8,1,0,87.5
+35,Barry McCarthyBJ McCarthy  NOT OUT,2,2,0,0,100
+36,Joshua LittleJB Little,-,-,-,-,-
+37,"Extras (w 1, b 3)",4,,,,
+38,"Total (8 wickets, 20 overs)",128,,,,
+39,Kusal MendisKusal Mendis  NOT OUT,68,43,5,3,158.13
+40,Dhananjaya de SilvaDM de Silva  c Lorcan Tucker b Gareth Delany,31,25,2,1,124
+41,Charith AsalankaKIC Asalanka  NOT OUT,31,22,2,0,140.9
+42,Ashen BandaraKNA Bandara,-,-,-,-,-
+43,Dasun ShanakaMD Shanaka,-,-,-,-,-
+44,Wanindu HasarangaW Hasaranga,-,-,-,-,-
+45,Chamika KarunaratneC Karunaratne,-,-,-,-,-
+46,Maheesh TheekshanaM Theekshana,-,-,-,-,-
+47,Lahiru KumaraCBRLS Kumara,-,-,-,-,-
+48,Bhanuka RajapaksaPBB Rajapaksa,-,-,-,-,-
+49,Binura FernandoB Fernando,-,-,-,-,-
+50,Extras (w 3),3,,,,
+51,"Total (1 wickets, 15 overs)",133,,,,
+52,Mohammad RizwanMohammad Rizwan  c Bhuvneshwar Kumar b Arshdeep Singh,4,12,1,0,33.33
+53,Babar AzamBabar Azam  lbw Arshdeep Singh,0,1,0,0,0
+54,Shan MasoodShan Masood  NOT OUT,52,42,5,0,123.8
+55,Iftikhar AhmedIftikhar Ahmed  lbw Mohammed Shami,51,34,2,4,150
+56,Shadab KhanShadab Khan  c Suryakumar Yadav b Hardik Pandya,5,6,1,0,83.33
+57,Haider AliHaider Ali  c Suryakumar Yadav b Hardik Pandya,2,4,0,0,50
+58,Mohammad NawazMohammad Nawaz  c Dinesh Karthik b Hardik Pandya,9,6,2,0,150
+59,Asif AliAsif Ali  c Dinesh Karthik b Arshdeep Singh,2,3,0,0,66.66
+60,Shaheen Shah AfridiShaheen Shah Afridi  c & b Bhuvneshwar Kumar,16,8,1,1,200
+61,Haris RaufHaris Rauf  NOT OUT,6,4,0,1,150
+62,Naseem ShahNaseem Shah,-,-,-,-,-
+63,"Extras (w 6, b 2, lb 4)",12,,,,
+64,"Total (8 wickets, 20 overs)",159,,,,
+65,KL RahulKL Rahul  b Naseem Shah,4,8,0,0,50
+66,Rohit SharmaRG Sharma  c Iftikhar Ahmed b Haris Rauf,4,7,0,0,57.14
+67,Virat KohliV Kohli  NOT OUT,82,53,6,4,154.71
+68,Suryakumar YadavSK Yadav  c Mohammad Rizwan b Haris Rauf,15,10,2,0,150
+69,Axar PatelAR Patel  run out (Babar Azam/Mohammad Rizwan),2,3,0,0,66.66
+70,Hardik PandyaHH Pandya  c Babar Azam b Mohammad Nawaz,40,37,1,2,108.1
+71,Dinesh KarthikKD Karthik  st Mohammad Rizwan b Mohammad Nawaz,1,2,0,0,50
+72,Ravichandran AshwinR Ashwin  NOT OUT,1,1,0,0,100
+73,Mohammed ShamiMohammed Shami,-,-,-,-,-
+74,Bhuvneshwar KumarB Kumar,-,-,-,-,-
+75,Arshdeep SinghArshdeep Singh,-,-,-,-,-
+76,"Extras (nb 1, w 6, b 3, lb 1)",11,,,,
+77,"Total (6 wickets, 20 overs)",160,,,,
+78,Najmul Hossain ShantoNajmul Hossain Shanto  c Logan van Beek b Tim Pringle,25,20,4,0,125
+79,Soumya SarkarSoumya Sarkar  c Bas de Leede b Paul van Meekeren,14,14,2,0,100
+80,Litton DasLitton Das  c Tom Cooper b Logan van Beek,9,11,0,0,81.81
+81,Shakib Al HasanS Al Hasan  c Bas de Leede b Shariz Ahmad,7,9,0,0,77.77
+82,Afif HossainAfif Hossain  c Scott Edwards b Bas de Leede,38,27,2,2,140.74
+83,Yasir AliYasir Ali  b Paul van Meekeren,3,5,0,0,60
+84,Nurul HasanNurul Hasan  c Paul van Meekeren b Bas de Leede,13,18,0,0,72.22
+85,Musaddek HossainMusaddek Hossain  NOT OUT,20,12,2,1,166.66
+86,Taskin AhmedTaskin Ahmed  c Logan van Beek b Fred Klaassen,0,1,0,0,0
+87,Hasan MahmudHasan Mahmud  NOT OUT,0,3,0,0,0
+88,Mustafizur RahmanMustafizur Rahman,-,-,-,-,-
+89,"Extras (w 7, lb 8)",15,,,,
+90,"Total (8 wickets, 20 overs)",144,,,,
+91,Vikram SinghVikram Singh  c Yasir Ali b Taskin Ahmed,0,1,0,0,0
+92,Max O'DowdMP O'Dowd  run out (Afif Hossain/Shakib Al Hasan),8,8,0,1,100
+93,Bas de LeedeBFW de Leede  c Nurul Hasan b Taskin Ahmed,0,1,0,0,0
+94,Colin AckermannCN Ackermann  c Musaddek Hossain b Taskin Ahmed,62,48,6,2,129.16
+95,Tom CooperTLW Cooper  run out (Najmul Hossain Shanto/Nurul Hasan),0,0,0,0,-
+96,Scott EdwardsSA Edwards  c Hasan Mahmud b Shakib Al Hasan,16,24,1,0,66.66
+97,Tim PringleTJG Pringle  b Hasan Mahmud,1,6,0,0,16.66
+98,Logan van BeekL van Beek  c Taskin Ahmed b Hasan Mahmud,2,5,0,0,40
+99,Shariz AhmadShariz Ahmad  c Hasan Mahmud b Taskin Ahmed,9,8,1,0,112.5
+100,Fred KlaassenFJ Klaassen  NOT OUT,7,6,0,0,116.66
+101,Paul van MeekerenPA van Meekeren  c Litton Das b Soumya Sarkar,24,14,3,1,171.42
+102,"Extras (nb 1, w 5)",6,,,,
+103,"Total (all out, 20 overs)",135,,,,
+104,Regis ChakabvaRW Chakabva  c Quinton de Kock b Lungi Ngidi,8,8,0,1,100
+105,Craig ErvineCR Ervine  c Lungi Ngidi b Wayne Parnell,2,6,0,0,33.33
+106,Sean WilliamsSC Williams  run out (David Miller),1,1,0,0,100
+107,Sikandar RazaSikandar Raza  c Quinton de Kock b Lungi Ngidi,0,2,0,0,0
+108,Wesley MadhevereW Madhevere  NOT OUT,35,18,4,1,194.44
+109,Milton ShumbaM Shumba  c Quinton de Kock b Anrich Nortje,18,20,2,0,90
+110,Ryan BurlRP Burl,-,-,-,-,-
+111,Luke JongweLM Jongwe,-,-,-,-,-
+112,Tendai ChataraTL Chatara,-,-,-,-,-
+113,Richard NgaravaR Ngarava,-,-,-,-,-
+114,Blessing MuzarabaniB Muzarabani,-,-,-,-,-
+115,"Extras (w 2, b 1, lb 7, pen 5)",15,,,,
+116,"Total (5 wickets, 9 overs)",79,,,,
+117,Quinton de KockQ de Kock  NOT OUT,47,18,8,1,261.11
+118,Temba BavumaT Bavuma  NOT OUT,2,2,0,0,100
+119,Rilee RossouwRR Rossouw,-,-,-,-,-
+120,Aiden MarkramAK Markram,-,-,-,-,-
+121,David MillerDA Miller,-,-,-,-,-
+122,Tristan StubbsT Stubbs,-,-,-,-,-
+123,Wayne ParnellWD Parnell,-,-,-,-,-
+124,Keshav MaharajKA Maharaj,-,-,-,-,-
+125,Kagiso RabadaK Rabada,-,-,-,-,-
+126,Anrich NortjeA Nortje,-,-,-,-,-
+127,Lungi NgidiL Ngidi,-,-,-,-,-
+128,Extras (nb 2),2,,,,
+129,"Total (0 wickets, 3 overs)",51,,,,
+130,Pathum NissankaP Nissanka  run out (Mitchell Marsh/Matthew Wade),40,45,2,0,88.88
+131,Kusal MendisKusal Mendis  c Mitchell Marsh b Pat Cummins,5,6,1,0,83.33
+132,Dhananjaya de SilvaDM de Silva  c David Warner b Ashton Agar,26,23,3,0,113.04
+133,Charith AsalankaKIC Asalanka  NOT OUT,38,25,3,2,152
+134,Bhanuka RajapaksaPBB Rajapaksa  c Pat Cummins b Mitchell Starc,7,5,1,0,140
+135,Dasun ShanakaMD Shanaka  c Matthew Wade b Glenn Maxwell,3,5,0,0,60
+136,Wanindu HasarangaW Hasaranga  c Matthew Wade b Josh Hazlewood,1,4,0,0,25
+137,Chamika KarunaratneC Karunaratne  NOT OUT,14,7,2,0,200
+138,Maheesh TheekshanaM Theekshana,-,-,-,-,-
+139,Lahiru KumaraCBRLS Kumara,-,-,-,-,-
+140,Binura FernandoB Fernando,-,-,-,-,-
+141,"Extras (w 12, b 6, lb 5)",23,,,,
+142,"Total (6 wickets, 20 overs)",157,,,,
+143,David WarnerDA Warner  c Dasun Shanaka b Maheesh Theekshana,11,10,0,0,110
+144,Aaron FinchAJ Finch  NOT OUT,31,42,0,1,73.8
+145,Mitchell MarshMR Marsh  c Bhanuka Rajapaksa b Dhananjaya de Silva,17,17,1,1,100
+146,Glenn MaxwellGJ Maxwell  c Ashen Bandara b Chamika Karunaratne,23,12,2,2,191.66
+147,Marcus StoinisMP Stoinis  NOT OUT,59,18,4,6,327.77
+148,Tim DavidTH David,-,-,-,-,-
+149,Matthew WadeMS Wade,-,-,-,-,-
+150,Pat CumminsPJ Cummins,-,-,-,-,-
+151,Mitchell StarcMA Starc,-,-,-,-,-
+152,Ashton AgarAC Agar,-,-,-,-,-
+153,Josh HazlewoodJR Hazlewood,-,-,-,-,-
+154,"Extras (w 10, b 4, lb 3)",17,,,,
+155,"Total (3 wickets, 16.3 overs)",158,,,,
+156,Paul StirlingPR Stirling  c Sam Curran b Mark Wood,14,8,1,1,175
+157,Andrew BalbirnieA Balbirnie  c Alex Hales b Liam Livingstone,62,47,5,2,131.91
+158,Lorcan TuckerLJ Tucker  run out (Adil Rashid),34,27,3,1,125.92
+159,Harry TectorHT Tector  c Jos Buttler b Mark Wood,0,2,0,0,0
+160,Curtis CampherC Campher  c Jos Buttler b Mark Wood,18,11,3,0,163.63
+161,George DockrellGH Dockrell  b Liam Livingstone,0,1,0,0,0
+162,Gareth DelanyGJ Delany  NOT OUT,12,10,1,0,120
+163,Mark AdairMR Adair  c Sam Curran b Liam Livingstone,4,4,0,0,100
+164,Barry McCarthyBJ McCarthy  b Sam Curran,3,3,0,0,100
+165,Fionn HandF Hand  b Sam Curran,1,2,0,0,50
+166,Joshua LittleJB Little  c Jos Buttler b Ben Stokes,0,1,0,0,0
+167,"Extras (w 7, lb 2)",9,,,,
+168,"Total (all out, 19.2 overs)",157,,,,
+169,Jos ButtlerJC Buttler  c Lorcan Tucker b Joshua Little,0,2,0,0,0
+170,Alex HalesAD Hales  c Mark Adair b Joshua Little,7,5,1,0,140
+171,Dawid MalanDJ Malan  c Fionn Hand b Barry McCarthy,35,37,2,0,94.59
+172,Ben StokesBA Stokes  b Fionn Hand,6,8,0,0,75
+173,Harry BrookHC Brook  c Gareth Delany b George Dockrell,18,21,1,0,85.71
+174,Moeen AliMM Ali  NOT OUT,24,12,3,1,200
+175,Liam LivingstoneLS Livingstone  NOT OUT,1,2,0,0,50
+176,Sam CurranSM Curran,-,-,-,-,-
+177,Chris WoakesCR Woakes,-,-,-,-,-
+178,Mark WoodMA Wood,-,-,-,-,-
+179,Adil RashidAU Rashid,-,-,-,-,-
+180,"Extras (w 10, lb 4)",14,,,,
+181,"Total (5 wickets, 14.3 overs)",105,,,,
+182,Temba BavumaT Bavuma  c Nurul Hasan b Taskin Ahmed,2,6,0,0,33.33
+183,Quinton de KockQ de Kock  c Soumya Sarkar b Afif Hossain,63,38,7,3,165.78
+184,Rilee RossouwRR Rossouw  c Litton Das b Shakib Al Hasan,109,56,7,8,194.64
+185,Tristan StubbsT Stubbs  c Litton Das b Shakib Al Hasan,7,7,1,0,100
+186,Aiden MarkramAK Markram  c Soumya Sarkar b Hasan Mahmud,10,11,1,0,90.9
+187,David MillerDA Miller  NOT OUT,2,4,0,0,50
+188,Wayne ParnellWD Parnell  NOT OUT,0,2,0,0,0
+189,Keshav MaharajKA Maharaj,-,-,-,-,-
+190,Kagiso RabadaK Rabada,-,-,-,-,-
+191,Anrich NortjeA Nortje,-,-,-,-,-
+192,Tabraiz ShamsiT Shamsi,-,-,-,-,-
+193,"Extras (nb 4, w 2, lb 1, pen 5)",12,,,,
+194,"Total (5 wickets, 20 overs)",205,,,,
+195,Soumya SarkarSoumya Sarkar  c Quinton de Kock b Anrich Nortje,15,6,0,2,250
+196,Najmul ShantoNajmul Hossain Shanto  b Anrich Nortje,9,9,1,0,100
+197,Litton DasLitton Das  c Tristan Stubbs b Tabraiz Shamsi,34,31,1,1,109.67
+198,Shakib Al HasanS Al Hasan  lbw Anrich Nortje,1,4,0,0,25
+199,Afif HossainAfif Hossain  c Wayne Parnell b Kagiso Rabada,1,5,0,0,20
+200,Mehidy MirazMehidy Hasan Miraz  c Aiden Markram b Tabraiz Shamsi,11,13,0,0,84.61
+201,Musaddek HossainMusaddek Hossain  st Quinton de Kock b Keshav Maharaj,0,3,0,0,0
+202,Nurul HasanNurul Hasan  c Anrich Nortje b Tabraiz Shamsi,2,6,0,0,33.33
+203,Taskin AhmedTaskin Ahmed  b Anrich Nortje,10,16,1,0,62.5
+204,Hasan MahmudHasan Mahmud  run out (Kagiso Rabada),0,2,0,0,0
+205,Mustafizur RahmanMustafizur Rahman  NOT OUT,9,4,0,1,225
+206,"Extras (w 4, b 4, lb 1)",9,,,,
+207,"Total (all out, 16.3 overs)",101,,,,
+208,KL RahulKL Rahul  lbw Paul van Meekeren,9,12,1,0,75
+209,Rohit SharmaRG Sharma  c Colin Ackermann b Fred Klaassen,53,39,4,3,135.89
+210,Virat KohliV Kohli  NOT OUT,62,44,3,2,140.9
+211,Suryakumar YadavSK Yadav  NOT OUT,51,25,7,1,204
+212,Bhuvneshwar KumarB Kumar,-,-,-,-,-
+213,Hardik PandyaHH Pandya,-,-,-,-,-
+214,Dinesh KarthikKD Karthik,-,-,-,-,-
+215,Mohammed ShamiMohammed Shami,-,-,-,-,-
+216,Axar PatelAR Patel,-,-,-,-,-
+217,Ravichandran AshwinR Ashwin,-,-,-,-,-
+218,Arshdeep SinghArshdeep Singh,-,-,-,-,-
+219,"Extras (w 3, lb 1)",4,,,,
+220,"Total (2 wickets, 20 overs)",179,,,,
+221,Max O'DowdMP O'Dowd  b Axar Patel,16,10,3,0,160
+222,Vikram SinghVikram Singh  b Bhuvneshwar Kumar,1,9,0,0,11.11
+223,Bas de LeedeBFW de Leede  c Hardik Pandya b Axar Patel,16,23,0,0,69.56
+224,Colin AckermannCN Ackermann  c Axar Patel b Ravichandran Ashwin,17,21,1,0,80.95
+225,Tom CooperTLW Cooper  c Deepak Hooda b Ravichandran Ashwin,9,12,0,0,75
+226,Scott EdwardsSA Edwards  c Deepak Hooda b Bhuvneshwar Kumar,5,8,0,0,62.5
+227,Tim PringleTJG Pringle  c Virat Kohli b Mohammed Shami,20,15,1,1,133.33
+228,Logan van BeekL van Beek  c Dinesh Karthik b Arshdeep Singh,3,5,0,0,60
+229,Shariz AhmadShariz Ahmad  NOT OUT,16,11,2,0,145.45
+230,Fred KlaassenFJ Klaassen  lbw Arshdeep Singh,0,1,0,0,0
+231,Paul van MeekerenPA van Meekeren  NOT OUT,14,6,3,0,233.33
+232,"Extras (nb 1, w 3, lb 2)",6,,,,
+233,"Total (9 wickets, 20 overs)",123,,,,
+234,Wesley MadhevereW Madhevere  lbw Mohammad Wasim,17,13,3,0,130.76
+235,Craig ErvineCR Ervine  c Mohammad Wasim b Haris Rauf,19,19,2,0,100
+236,Milton ShumbaM Shumba  c & b Shadab Khan,8,10,1,0,80
+237,Sean WilliamsSC Williams  b Shadab Khan,31,28,3,0,110.71
+238,Sikandar RazaSikandar Raza  c Haris Rauf b Mohammad Wasim,9,16,1,0,56.25
+239,Regis ChakabvaRW Chakabva  c Babar Azam b Shadab Khan,0,1,0,0,0
+240,Ryan BurlRP Burl  NOT OUT,10,15,0,0,66.66
+241,Luke JongweLM Jongwe  b Mohammad Wasim,0,1,0,0,0
+242,Brad EvansB Evans  b Mohammad Wasim,19,15,0,1,126.66
+243,Richard NgaravaR Ngarava  NOT OUT,3,2,0,0,150
+244,Blessing MuzarabaniB Muzarabani,-,-,-,-,-
+245,"Extras (w 6, lb 8)",14,,,,
+246,"Total (8 wickets, 20 overs)",130,,,,
+247,Mohammad RizwanMohammad Rizwan  b Blessing Muzarabani,14,16,1,1,87.5
+248,Babar AzamBabar Azam  c Ryan Burl b Brad Evans,4,9,1,0,44.44
+249,Shan MasoodShan Masood  st Regis Chakabva b Sikandar Raza,44,38,3,0,115.78
+250,Iftikhar AhmedIftikhar Ahmed  c Regis Chakabva b Luke Jongwe,5,10,1,0,50
+251,Shadab KhanShadab Khan  c Sean Williams b Sikandar Raza,17,14,0,1,121.42
+252,Haider AliHaider Ali  lbw Sikandar Raza,0,1,0,0,0
+253,Mohammad NawazMohammad Nawaz  c Craig Ervine b Brad Evans,22,18,1,1,122.22
+254,Mohammad WasimMohammad Wasim  NOT OUT,12,13,2,0,92.3
+255,Shaheen Shah AfridiShaheen Shah Afridi  run out (Sikandar Raza/Regis Chakabva),1,1,0,0,100
+256,Haris RaufHaris Rauf,-,-,-,-,-
+257,Naseem ShahNaseem Shah,-,-,-,-,-
+258,"Extras (w 5, lb 5)",10,,,,
+259,"Total (8 wickets, 20 overs)",129,,,,
+260,Finn AllenFH Allen  b Maheesh Theekshana,1,3,0,0,33.33
+261,Devon ConwayDP Conway  b Dhananjaya de Silva,1,4,0,0,25
+262,Kane WilliamsonKS Williamson  c Kusal Mendis b Kasun Rajitha,8,13,1,0,61.53
+263,Glenn PhillipsGD Phillips  c Dasun Shanaka b Lahiru Kumara,104,64,10,4,162.5
+264,Daryl MitchellDJ Mitchell  b Wanindu Hasaranga,22,24,0,0,91.66
+265,Jimmy NeeshamJDS Neesham  c Dasun Shanaka b Kasun Rajitha,5,8,0,0,62.5
+266,Mitch SantnerMJ Santner  NOT OUT,11,5,0,1,220
+267,Ish SodhiIS Sodhi  run out (Kusal Mendis/Ashen Bandara),1,1,0,0,100
+268,Tim SoutheeTG Southee  NOT OUT,4,1,1,0,400
+269,Lockie FergusonLH Ferguson,-,-,-,-,-
+270,Trent BoultTA Boult,-,-,-,-,-
+271,"Extras (nb 3, w 5, lb 2)",10,,,,
+272,"Total (7 wickets, 20 overs)",167,,,,
+273,Pathum NissankaP Nissanka  lbw Tim Southee,0,5,0,0,0
+274,Kusal MendisKusal Mendis  c Devon Conway b Trent Boult,4,3,1,0,133.33
+275,Dhananjaya de SilvaDM de Silva  b Trent Boult,0,3,0,0,0
+276,Charith AsalankaKIC Asalanka  c Finn Allen b Trent Boult,4,8,0,0,50
+277,Bhanuka RajapaksaPBB Rajapaksa  c Kane Williamson b Lockie Ferguson,34,22,3,2,154.54
+278,Chamika KarunaratneC Karunaratne  c Trent Boult b Mitch Santner,3,8,0,0,37.5
+279,Dasun ShanakaMD Shanaka  c Daryl Mitchell b Trent Boult,35,32,4,1,109.37
+280,Wanindu HasarangaW Hasaranga  c Kane Williamson b Ish Sodhi,4,6,1,0,66.66
+281,Maheesh TheekshanaM Theekshana  c Jimmy Neesham b Mitch Santner,0,3,0,0,0
+282,Kasun RajithaCAK Rajitha  NOT OUT,8,21,0,0,38.09
+283,Lahiru KumaraCBRLS Kumara  st Devon Conway b Ish Sodhi,4,5,1,0,80
+284,Extras (w 6),6,,,,
+285,"Total (all out, 19.2 overs)",102,,,,
+286,Najmul Hossain ShantoNajmul Hossain Shanto  c Craig Ervine b Sikandar Raza,71,55,7,1,129.09
+287,Soumya SarkarSoumya Sarkar  c Regis Chakabva b Blessing Muzarabani,0,2,0,0,0
+288,Litton DasLitton Das  c Tendai Chatara b Blessing Muzarabani,14,12,3,0,116.66
+289,Shakib Al HasanS Al Hasan  c Blessing Muzarabani b Sean Williams,23,20,1,0,115
+290,Afif HossainAfif Hossain  lbw Richard Ngarava,29,19,1,1,152.63
+291,Musaddek HossainMusaddek Hossain  c Tendai Chatara b Richard Ngarava,7,10,0,0,70
+292,Nurul HasanNurul Hasan  run out (Sean Williams),1,1,0,0,100
+293,Yasir AliYasir Ali  NOT OUT,1,1,0,0,100
+294,Taskin AhmedTaskin Ahmed,-,-,-,-,-
+295,Hasan MahmudHasan Mahmud,-,-,-,-,-
+296,Mustafizur RahmanMustafizur Rahman,-,-,-,-,-
+297,Extras (w 4),4,,,,
+298,"Total (7 wickets, 20 overs)",150,,,,
+299,Wessly MadhevereW Madhevere  c Mustafizur Rahman b Taskin Ahmed,4,3,1,0,133.33
+300,Craig ErvineCR Ervine  c Nurul Hasan b Taskin Ahmed,8,7,2,0,114.28
+301,Milton ShumbaM Shumba  c Shakib Al Hasan b Mustafizur Rahman,8,15,1,0,53.33
+302,Sean WilliamsSC Williams  run out (Shakib Al Hasan),64,42,8,0,152.38
+303,Sikandar RazaSikandar Raza  c Afif Hossain b Mustafizur Rahman,0,3,0,0,0
+304,Regis ChakabvaRW Chakabva  c Nurul Hasan b Taskin Ahmed,15,19,0,0,78.94
+305,Ryan BurlRP Burl  NOT OUT,27,25,2,1,108
+306,Brad EvansB Evans  c Afif Hossain b Musaddek Hossain,2,2,0,0,100
+307,Richard NgaravaR Ngarava  st Nurul Hasan b Musaddek Hossain,6,3,0,1,200
+308,Blessing MuzarabaniB Muzarabani  NOT OUT,0,2,0,0,0
+309,Tendai ChataraTL Chatara,-,-,-,-,-
+310,"Extras (nb 1, w 3, lb 9)",13,,,,
+311,"Total (8 wickets, 20 overs)",147,,,,
+312,Max O'DowdMP O'Dowd  lbw Shadab Khan,8,13,0,0,61.53
+313,Stephan MyburghSJ Myburgh  c Mohammad Wasim b Shaheen Shah Afridi,6,11,1,0,54.54
+314,Bas de LeedeBFW de Leede  Retired Hurt,6,16,1,0,37.5
+315,Tom CooperTLW Cooper  c Mohammad Wasim b Shadab Khan,1,2,0,0,50
+316,Colin AckermannCN Ackermann  lbw Shadab Khan,27,27,2,0,100
+317,Scott EdwardsSA Edwards  c Iftikhar Ahmed b Naseem Shah,15,20,1,0,75
+318,Roelof van der MerweRE van der Merwe  b Haris Rauf,5,6,0,0,83.33
+319,Tim PringleTJG Pringle  b Mohammad Wasim,5,8,0,0,62.5
+320,Logan van BeekL van Beek  NOT OUT,6,9,0,0,66.66
+321,Fred KlaassenFJ Klaassen  b Mohammad Wasim,0,1,0,0,0
+322,Paul van MeekerenPA van Meekeren  run out (Shadab Khan),7,7,0,0,100
+323,Brandon GloverBD Glover,-,-,-,-,-
+324,"Extras (w 2, lb 3)",5,,,,
+325,"Total (9 wickets, 20 overs)",91,,,,
+326,Babar AzamBabar Azam  run out (Roelof van der Merwe),4,5,1,0,80
+327,Muhammad RizwanMuhammad Rizwan  c Scott Edwards b Paul van Meekeren,49,39,5,0,125.64
+328,Fakhar ZamanFakhar Zaman  c Scott Edwards b Brandon Glover,20,16,3,0,125
+329,Shan MasoodShan Masood  c Paul van Meekeren b Brandon Glover,12,16,0,0,75
+330,Iftikhar AhmedIftikhar Ahmed  NOT OUT,6,5,0,0,120
+331,Shadab KhanShadab Khan  NOT OUT,4,2,1,0,200
+332,Mohammad NawazMohammad Nawaz,-,-,-,-,-
+333,Mohammad WasimMohammad Wasim,-,-,-,-,-
+334,Shaheen Shah AfridiShaheen Shah Afridi,-,-,-,-,-
+335,Haris RaufHaris Rauf,-,-,-,-,-
+336,Naseem ShahNaseem Shah,-,-,-,-,-
+337,Extras,0,,,,
+338,"Total (4 wickets, 13.5 overs)",95,,,,
+339,Rohit SharmaRG Sharma  c & b Lungi Ngidi,15,14,1,1,107.14
+340,KL RahulKL Rahul  c Aiden Markram b Lungi Ngidi,9,14,0,1,64.28
+341,Virat KohliV Kohli  c Kagiso Rabada b Lungi Ngidi,12,11,2,0,109.09
+342,Suryakumar YadavSK Yadav  c Keshav Maharaj b Wayne Parnell,68,40,6,3,170
+343,Deepak HoodaDJ Hooda  c Quinton de Kock b Anrich Nortje,0,3,0,0,0
+344,Hardik PandyaHH Pandya  c Kagiso Rabada b Lungi Ngidi,2,3,0,0,66.66
+345,Dinesh KarthikKD Karthik  c Rilee Rossouw b Wayne Parnell,6,15,0,0,40
+346,Ravichandran AshwinR Ashwin  c Kagiso Rabada b Wayne Parnell,7,11,0,0,63.63
+347,Bhuvneshwar KumarB Kumar  NOT OUT,4,6,0,0,66.66
+348,Mohammed ShamiMohammed Shami  run out (Anrich Nortje),0,2,0,0,0
+349,Arshdeep SinghArshdeep Singh  NOT OUT,2,1,0,0,200
+350,Rishabh PantRR Pant,-,-,-,-,-
+351,"Extras (w 1, b 5, lb 2)",8,,,,
+352,"Total (9 wickets, 20 overs)",133,,,,
+353,Temba BavumaT Bavuma  c Dinesh Karthik b Mohammed Shami,10,15,0,1,66.66
+354,Quinton de KockQ de Kock  c KL Rahul b Arshdeep Singh,1,3,0,0,33.33
+355,Rilee RossouwRR Rossouw  lbw Arshdeep Singh,0,2,0,0,0
+356,Aiden MarkramAK Markram  c Suryakumar Yadav b Hardik Pandya,52,41,6,1,126.82
+357,David MillerDA Miller  NOT OUT,59,46,4,3,128.26
+358,Tristan StubbsT Stubbs  lbw Ravichandran Ashwin,6,6,1,0,100
+359,Wayne ParnellWD Parnell  NOT OUT,2,5,0,0,40
+360,Keshav MaharajKA Maharaj,-,-,-,-,-
+361,Kagiso RabadaK Rabada,-,-,-,-,-
+362,Anrich NortjeA Nortje,-,-,-,-,-
+363,Lungi NgidiL Ngidi,-,-,-,-,-
+364,"Extras (w 1, b 4, lb 2)",7,,,,
+365,"Total (5 wickets, 19.4 overs)",137,,,,
+366,David WarnerDA Warner  c Mark Adair b Barry McCarthy,3,7,0,0,42.85
+367,Aaron FinchAJ Finch  c Mark Adair b Barry McCarthy,63,44,5,3,143.18
+368,Mitchell MarshMR Marsh  c Lorcan Tucker b Barry McCarthy,28,22,2,2,127.27
+369,Glenn MaxwellGJ Maxwell  c Lorcan Tucker b Joshua Little,13,9,0,1,144.44
+370,Marcus StoinisMP Stoinis  c George Dockrell b Joshua Little,35,25,3,1,140
+371,Tim DavidTH David  NOT OUT,15,10,2,0,150
+372,Matthew WadeMS Wade  NOT OUT,7,3,1,0,233.33
+373,Pat CumminsPJ Cummins,-,-,-,-,-
+374,Mitchell StarcMA Starc,-,-,-,-,-
+375,Adam ZampaA Zampa,-,-,-,-,-
+376,Josh HazlewoodJR Hazlewood,-,-,-,-,-
+377,"Extras (w 13, lb 2)",15,,,,
+378,"Total (5 wickets, 20 overs)",179,,,,
+379,Paul StirlingPR Stirling  c Pat Cummins b Glenn Maxwell,11,7,1,1,157.14
+380,Andrew BalbirnieA Balbirnie  b Pat Cummins,6,7,0,1,85.71
+381,Lorcan TuckerLJ Tucker  NOT OUT,71,48,9,1,147.91
+382,Harry TectorHT Tector  c Steve Smith b Glenn Maxwell,6,4,1,0,150
+383,Curtis CampherC Campher  b Mitchell Starc,0,1,0,0,0
+384,George DockrellGH Dockrell  b Mitchell Starc,0,4,0,0,0
+385,Gareth DelanyGJ Delany  c Glenn Maxwell b Marcus Stoinis,14,10,2,0,140
+386,Mark AdairMR Adair  st Matthew Wade b Adam Zampa,11,11,1,0,100
+387,Fionn HandF Hand  b Adam Zampa,6,6,1,0,100
+388,Barry McCarthyBJ McCarthy  c Steve Smith b Pat Cummins,3,7,0,0,42.85
+389,Joshua LittleJB Little  run out (Mitchell Marsh/Glenn Maxwell),1,5,0,0,20
+390,"Extras (nb 1, w 4, b 1, lb 2)",8,,,,
+391,"Total (all out, 18.1 overs)",137,,,,
+392,Usman GhaniUsman Ghani  c Dasun Shanaka b Wanindu Hasaranga,27,27,2,1,100
+393,GurbazGurbaz  b Lahiru Kumara,28,24,2,2,116.66
+394,Ibrahim ZadranIbrahim Zadran  c Bhanuka Rajapaksa b Lahiru Kumara,22,18,1,1,122.22
+395,Najib ZadranNajib Zadran  c Wanindu Hasaranga b Dhananjaya de Silva,18,16,1,0,112.5
+396,Gulbadin NaibGulbadin Naib  run out (Pathum Nissanka/Kusal Mendis),12,14,0,0,85.71
+397,Mohammad NabiMohammad Nabi  c Dasun Shanaka b Kasun Rajitha,13,8,1,0,162.5
+398,Rashid KhanRashid Khan  b Wanindu Hasaranga,9,8,1,0,112.5
+399,Azmat OmarzaiAzmat Omarzai  NOT OUT,3,4,0,0,75
+400,Mujeeb ZadranMujeeb Zadran  st Kusal Mendis b Wanindu Hasaranga,1,2,0,0,50
+401,Fareed MalikFarid Malik,-,-,-,-,-
+402,Fazalhaq FarooqiFazalhaq Farooqi,-,-,-,-,-
+403,"Extras (nb 1, w 6, b 3, lb 1)",11,,,,
+404,"Total (8 wickets, 20 overs)",144,,,,
+405,Pathum NissankaP Nissanka  b Mujeeb Zadran,10,10,2,0,100
+406,Kusal MendisKusal Mendis  c Gurbaz b Rashid Khan,25,27,2,1,92.59
+407,Dhananjaya de SilvaDM de Silva  NOT OUT,66,42,6,2,157.14
+408,Charith AsalankaKIC Asalanka  c Azmat Omarzai b Rashid Khan,19,18,1,0,105.55
+409,Bhanuka RajapaksaPBB Rajapaksa  c Gurbaz b Mujeeb Zadran,18,14,3,0,128.57
+410,Dasun ShanakaMD Shanaka  NOT OUT,0,0,0,0,-
+411,Wanindu HasarangaW Hasaranga,-,-,-,-,-
+412,Pramod MadushanP Madushan,-,-,-,-,-
+413,Maheesh TheekshanaM Theekshana,-,-,-,-,-
+414,Kasun RajithaCAK Rajitha,-,-,-,-,-
+415,Lahiru KumaraCBRLS Kumara,-,-,-,-,-
+416,"Extras (w 9, lb 1)",10,,,,
+417,"Total (4 wickets, 18.3 overs)",148,,,,
+418,Jos ButtlerJC Buttler  run out (Kane Williamson/Tim Southee),73,47,7,2,155.31
+419,Alex HalesAD Hales  st Devon Conway b Mitch Santner,52,40,7,1,130
+420,Moeen AliMM Ali  c Trent Boult b Ish Sodhi,5,6,0,0,83.33
+421,Liam LivingstoneLS Livingstone  b Lockie Ferguson,20,14,1,1,142.85
+422,Harry BrookHC Brook  c Finn Allen b Tim Southee,7,3,0,1,233.33
+423,Ben StokesBA Stokes  lbw Lockie Ferguson,8,7,0,0,114.28
+424,Sam CurranSM Curran  NOT OUT,6,3,0,1,200
+425,Dawid MalanDJ Malan  NOT OUT,3,1,0,0,300
+426,Chris WoakesCR Woakes,-,-,-,-,-
+427,Adil RashidAU Rashid,-,-,-,-,-
+428,Mark WoodMA Wood,-,-,-,-,-
+429,"Extras (nb 1, w 1, b 1, lb 2)",5,,,,
+430,"Total (6 wickets, 20 overs)",179,,,,
+431,Finn AllenFH Allen  c Ben Stokes b Sam Curran,16,11,0,1,145.45
+432,Devon ConwayDP Conway  c Jos Buttler b Chris Woakes,3,9,0,0,33.33
+433,Kane WilliamsonKS Williamson  c Adil Rashid b Ben Stokes,40,40,3,0,100
+434,Glenn PhillipsGD Phillips  c Chris Jordan b Sam Curran,62,36,4,3,172.22
+435,Jimmy NeeshamJDS Neesham  c Sam Curran b Mark Wood,6,3,1,0,200
+436,Daryl MitchellDJ Mitchell  c Chris Jordan b Chris Woakes,3,5,0,0,60
+437,Mitch SantnerMJ Santner  NOT OUT,16,10,0,1,160
+438,Ish SodhiIS Sodhi  NOT OUT,6,6,0,0,100
+439,Tim SoutheeTG Southee,-,-,-,-,-
+440,Lockie FergusonLH Ferguson,-,-,-,-,-
+441,Trent BoultTA Boult,-,-,-,-,-
+442,"Extras (w 5, lb 2)",7,,,,
+443,"Total (6 wickets, 20 overs)",159,,,,
+444,Wessly MadhevereW Madhevere  b Paul van Meekeren,1,5,0,0,20
+445,Craig ErvineCR Ervine  c Scott Edwards b Brandon Glover,3,12,0,0,25
+446,Regis ChakabvaRW Chakabva  lbw Brandon Glover,5,16,1,0,31.25
+447,Sean WilliamsSC Williams  c Max O'Dowd b Paul van Meekeren,28,23,3,0,121.73
+448,Sikandar RazaSikandar Raza  c Fred Klaassen b Bas de Leede,40,24,3,3,166.66
+449,Milton ShumbaM Shumba  c Stephan Myburgh b Logan van Beek,2,3,0,0,66.66
+450,Ryan BurlRP Burl  b Paul van Meekeren,2,7,0,0,28.57
+451,Luke JongweLM Jongwe  c Logan van Beek b Bas de Leede,6,8,0,0,75
+452,Richard NgaravaR Ngarava  c Stephan Myburgh b Fred Klaassen,9,7,0,1,128.57
+453,Tendai ChataraTL Chatara  NOT OUT,6,7,0,0,85.71
+454,Blessing MuzarabaniB Muzarabani  c Brandon Glover b Logan van Beek,1,4,0,0,25
+455,"Extras (w 11, lb 3)",14,,,,
+456,"Total (all out, 19.2 overs)",117,,,,
+457,Stephan MyburghSJ Myburgh  c Ryan Burl b Blessing Muzarabani,8,7,0,1,114.28
+458,Max O'DowdMP O'Dowd  c Milton Shumba b Blessing Muzarabani,52,47,8,1,110.63
+459,Tom CooperTLW Cooper  c Wessly Madhevere b Luke Jongwe,32,29,2,1,110.34
+460,Colin AckermannCN Ackermann  c Luke Jongwe b Richard Ngarava,1,5,0,0,20
+461,Bas de LeedeBFW de Leede  NOT OUT,12,12,2,0,100
+462,Scott EdwardsSA Edwards  c Regis Chakabva b Richard Ngarava,5,6,1,0,83.33
+463,Roelof van der MerweRE van der Merwe  NOT OUT,0,3,0,0,0
+464,Logan van BeekL van Beek,-,-,-,-,-
+465,Fred KlaassenFJ Klaassen,-,-,-,-,-
+466,Paul van MeekerenPA van Meekeren,-,-,-,-,-
+467,Brandon GloverBD Glover,-,-,-,-,-
+468,"Extras (nb 1, w 4, lb 5)",10,,,,
+469,"Total (5 wickets, 18 overs)",120,,,,
+470,KL RahulKL Rahul  c Mustafizur Rahman b Shakib Al Hasan,50,32,3,4,156.25
+471,Rohit SharmaRG Sharma  c Yasir Ali b Hasan Mahmud,2,8,0,0,25
+472,Virat KohliV Kohli  NOT OUT,64,44,8,1,145.45
+473,Suryakumar YadavSK Yadav  b Shakib Al Hasan,30,16,4,0,187.5
+474,Hardik PandyaHH Pandya  c Yasir Ali b Hasan Mahmud,5,6,0,0,83.33
+475,Dinesh KarthikKD Karthik  run out (Shakib Al Hasan/Shoriful Islam),7,5,1,0,140
+476,Axar PatelAR Patel  c Shakib Al Hasan b Hasan Mahmud,7,6,1,0,116.66
+477,Ravichandran AshwinR Ashwin  NOT OUT,13,6,1,1,216.66
+478,Bhuvneshwar KumarB Kumar,-,-,-,-,-
+479,Mohammed ShamiMohammed Shami,-,-,-,-,-
+480,Arshdeep SinghArshdeep Singh,-,-,-,-,-
+481,"Extras (nb 3, w 2, lb 1)",6,,,,
+482,"Total (6 wickets, 20 overs)",184,,,,
+483,Najmul Hossain ShantoNajmul Hossain Shanto  c Suryakumar Yadav b Mohammed Shami,21,25,1,1,84
+484,Litton DasLitton Das  run out (KL Rahul),60,27,7,3,222.22
+485,Shakib Al HasanS Al Hasan  c Deepak Hooda b Arshdeep Singh,13,12,2,0,108.33
+486,Afif HossainAfif Hossain  c Suryakumar Yadav b Arshdeep Singh,3,5,0,0,60
+487,Yasir AliYasir Ali  c Arshdeep Singh b Hardik Pandya,1,3,0,0,33.33
+488,Nurul HasanNurul Hasan  NOT OUT,25,14,2,1,178.57
+489,Musaddek HossainMusaddek Hossain  b Hardik Pandya,6,3,0,1,200
+490,Taskin AhmedTaskin Ahmed  NOT OUT,12,7,1,1,171.42
+491,Hasan MahmudHasan Mahmud,-,-,-,-,-
+492,Mustafizur RahmanMustafizur Rahman,-,-,-,-,-
+493,Shoriful IslamShoriful Islam,-,-,-,-,-
+494,"Extras (w 2, lb 2)",4,,,,
+495,"Total (6 wickets, 16 overs)",145,,,,
+496,Muhammad RizwanMuhammad Rizwan  b Wayne Parnell,4,4,1,0,100
+497,Babar AzamBabar Azam  c Kagiso Rabada b Lungi Ngidi,6,15,0,0,40
+498,Mohammad HarisMohammad Haris  lbw Anrich Nortje,28,11,2,3,254.54
+499,Shan MasoodShan Masood  c Temba Bavuma b Anrich Nortje,2,6,0,0,33.33
+500,Iftikhar AhmedIftikhar Ahmed  c Rilee Rossouw b Kagiso Rabada,51,35,3,2,145.71
+501,Mohammad NawazMohammad Nawaz  lbw Tabraiz Shamsi,28,22,4,1,127.27
+502,Shadab KhanShadab Khan  c Tristan Stubbs b Anrich Nortje,52,22,3,4,236.36
+503,Mohammad WasimMohammad Wasim  c Temba Bavuma b Anrich Nortje,0,1,0,0,0
+504,Naseem ShahNaseem Shah  NOT OUT,5,3,0,0,166.66
+505,Haris RaufHaris Rauf  run out (Heinrich Klaasen/Temba Bavuma),3,2,0,0,150
+506,Shaheen Shah AfridiShaheen Shah Afridi,-,-,-,-,-
+507,"Extras (nb 1, w 4, lb 1)",6,,,,
+508,"Total (9 wickets, 20 overs)",185,,,,
+509,Temba BavumaT Bavuma  c Muhammad Rizwan b Shadab Khan,36,19,4,1,189.47
+510,Quinton de KockQ de Kock  c Mohammad Haris b Shaheen Shah Afridi,0,5,0,0,0
+511,Rilee RossouwRR Rossouw  c Naseem Shah b Shaheen Shah Afridi,7,6,0,1,116.66
+512,Aiden MarkramAK Markram  b Shadab Khan,20,14,4,0,142.85
+513,Heinrich KlaasenH Klaasen  c Mohammad Wasim b Shaheen Shah Afridi,15,9,3,0,166.66
+514,Tristan StubbsT Stubbs  c Mohammad Nawaz b Naseem Shah,18,18,0,1,100
+515,Wayne ParnellWD Parnell  lbw Mohammad Wasim,3,4,0,0,75
+516,Kagiso RabadaK Rabada  run out (Mohammad Nawaz),1,2,0,0,50
+517,Anrich NortjeA Nortje  c Mohammad Haris b Haris Rauf,1,5,0,0,20
+518,Lungi NgidiL Ngidi  NOT OUT,4,1,1,0,400
+519,Tabraiz ShamsiT Shamsi  NOT OUT,1,1,0,0,100
+520,Extras (w 2),2,,,,
+521,"Total (9 wickets, 14 overs)",108,,,,
+522,Finn AllenFH Allen  c Fionn Hand b Mark Adair,32,18,5,1,177.77
+523,Devon ConwayDP Conway  c Mark Adair b Gareth Delany,28,33,2,0,84.84
+524,Kane WilliamsonKS Williamson  c Gareth Delany b Joshua Little,61,35,5,3,174.28
+525,Glenn PhillipsGD Phillips  c George Dockrell b Gareth Delany,17,9,2,1,188.88
+526,Daryl MitchellDJ Mitchell  NOT OUT,31,21,2,0,147.61
+527,Jimmy NeeshamJDS Neesham  lbw Joshua Little,0,1,0,0,0
+528,Mitch SantnerMJ Santner  lbw Joshua Little,0,1,0,0,0
+529,Tim SoutheeTG Southee  NOT OUT,1,2,0,0,50
+530,Ish SodhiIS Sodhi,-,-,-,-,-
+531,Lockie FergusonLH Ferguson,-,-,-,-,-
+532,Trent BoultTA Boult,-,-,-,-,-
+533,"Extras (w 7, b 1, lb 7)",15,,,,
+534,"Total (6 wickets, 20 overs)",185,,,,
+535,Paul StirlingPR Stirling  b Ish Sodhi,37,27,3,1,137.03
+536,Andrew BalbirnieA Balbirnie  b Mitch Santner,30,25,0,3,120
+537,Lorcan TuckerLJ Tucker  c Finn Allen b Ish Sodhi,13,14,0,0,92.85
+538,Harry TectorHT Tector  c Tim Southee b Mitch Santner,2,7,0,0,28.57
+539,Gareth DelanyGJ Delany  c Devon Conway b Lockie Ferguson,10,8,2,0,125
+540,George DockrellGH Dockrell  c Kane Williamson b Lockie Ferguson,23,15,3,0,153.33
+541,Curtis CampherC Campher  c Finn Allen b Tim Southee,7,7,1,0,100
+542,Fionn HandF Hand  c & b Lockie Ferguson,5,3,1,0,166.66
+543,Mark AdairMR Adair  c Glenn Phillips b Tim Southee,4,5,0,0,80
+544,Barry McCarthyBJ McCarthy  NOT OUT,6,5,0,0,120
+545,Joshua LittleJB Little  NOT OUT,8,4,0,1,200
+546,"Extras (w 1, lb 4)",5,,,,
+547,"Total (9 wickets, 20 overs)",150,,,,
+548,David WarnerDA Warner  b Naveen-ul-Haq Murid,25,18,5,0,138.88
+549,Cameron GreenC Green  c Gulbadin Naib b Fazalhaq Farooqi,3,2,0,0,150
+550,Mitchell MarshMR Marsh  c Gurbaz b Mujeeb Zadran,45,30,3,2,150
+551,Steve SmithSPD Smith  lbw Naveen-ul-Haq Murid,4,4,1,0,100
+552,Marcus StoinisMP Stoinis  c Usman Ghani b Rashid Khan,25,21,0,2,119.04
+553,Glenn MaxwellGJ Maxwell  NOT OUT,54,32,6,2,168.75
+554,Matthew WadeMS Wade  b Fazalhaq Farooqi,6,8,1,0,75
+555,Pat CumminsPJ Cummins  c Rashid Khan b Naveen-ul-Haq Murid,0,2,0,0,0
+556,Kane RichardsonKW Richardson  run out (Naveen-ul-Haq Murid),1,1,0,0,100
+557,Adam ZampaA Zampa  NOT OUT,1,1,0,0,100
+558,Josh HazlewoodJR Hazlewood,-,-,-,-,-
+559,"Extras (w 2, lb 2)",4,,,,
+560,"Total (8 wickets, 20 overs)",168,,,,
+561,GurbazGurbaz  c David Warner b Kane Richardson,30,17,2,2,176.47
+562,Usman GhaniUsman Ghani  c Pat Cummins b Josh Hazlewood,2,7,0,0,28.57
+563,Ibrahim ZadranIbrahim Zadran  c Mitchell Marsh b Adam Zampa,26,33,2,0,78.78
+564,Gulbadin NaibGulbadin Naib  run out (Glenn Maxwell),39,23,3,2,169.56
+565,Mohammad NabiMohammad Nabi  c David Warner b Josh Hazlewood,1,2,0,0,50
+566,Najib ZadranNajib Zadran  c Glenn Maxwell b Adam Zampa,0,2,0,0,0
+567,Darwish RasooliDarwish Rasooli  run out (Marcus Stoinis),15,13,1,0,115.38
+568,Rashid KhanRashid Khan  NOT OUT,48,23,3,4,208.69
+569,Naveen-ul-Haq MuridNaveen-ul-Haq Murid  NOT OUT,0,0,0,0,-
+570,Mujeeb ZadranMujeeb Zadran,-,-,-,-,-
+571,Fazalhaq FarooqiFazalhaq Farooqi,-,-,-,-,-
+572,Extras (w 3),3,,,,
+573,"Total (7 wickets, 20 overs)",164,,,,
+574,Pathum NissankaP Nissanka  c Chris Jordan b Adil Rashid,67,45,2,5,148.88
+575,Kusal MendisKusal Mendis  c Liam Livingstone b Chris Woakes,18,14,1,1,128.57
+576,Dhananjaya de SilvaDM de Silva  c Ben Stokes b Sam Curran,9,11,0,0,81.81
+577,Charith AsalankaKIC Asalanka  c Dawid Malan b Ben Stokes,8,9,0,0,88.88
+578,Bhanuka RajapaksaPBB Rajapaksa  c Sam Curran b Mark Wood,22,22,3,0,100
+579,Dasun ShanakaMD Shanaka  c Jos Buttler b Mark Wood,3,8,0,0,37.5
+580,Wanindu HasarangaW Hasaranga  run out (Jos Buttler),9,9,1,0,100
+581,Chamika KarunaratneC Karunaratne  c Alex Hales b Mark Wood,0,2,0,0,0
+582,Maheesh TheekshanaM Theekshana  NOT OUT,0,0,0,0,-
+583,Lahiru KumaraCBRLS Kumara,-,-,-,-,-
+584,Kasun RajithaCAK Rajitha,-,-,-,-,-
+585,"Extras (w 2, lb 3)",5,,,,
+586,"Total (8 wickets, 20 overs)",141,,,,
+587,Jos ButtlerJC Buttler  c Chamika Karunaratne b Wanindu Hasaranga,28,23,2,1,121.73
+588,Alex HalesAD Hales  c & b Wanindu Hasaranga,47,30,7,1,156.66
+589,Ben StokesBA Stokes  NOT OUT,42,36,2,0,116.66
+590,Harry BrookHC Brook  c & b Dhananjaya de Silva,4,5,0,0,80
+591,Liam LivingstoneLS Livingstone  c Dhananjaya de Silva b Lahiru Kumara,4,6,0,0,66.66
+592,Moeen AliMM Ali  c Dasun Shanaka b Dhananjaya de Silva,1,5,0,0,20
+593,Sam CurranSM Curran  c Kasun Rajitha b Lahiru Kumara,6,11,0,0,54.54
+594,Chris WoakesCR Woakes  NOT OUT,5,3,1,0,166.66
+595,Dawid MalanDJ Malan,-,-,-,-,-
+596,Adil RashidAU Rashid,-,-,-,-,-
+597,Mark WoodMA Wood,-,-,-,-,-
+598,"Extras (nb 1, w 3, lb 3)",7,,,,
+599,"Total (6 wickets, 19.4 overs)",144,,,,
+600,Stephan MyburghSJ Myburgh  c Rilee Rossouw b Aiden Markram,37,30,7,0,123.33
+601,Max O'DowdMP O'Dowd  c Kagiso Rabada b Keshav Maharaj,29,31,1,1,93.54
+602,Tom CooperTLW Cooper  c Quinton de Kock b Keshav Maharaj,35,19,2,2,184.21
+603,Colin AckermannCN Ackermann  NOT OUT,41,26,3,2,157.69
+604,Bas de LeedeBFW de Leede  b Anrich Nortje,1,7,0,0,14.28
+605,Scott EdwardsSA Edwards  NOT OUT,12,7,2,0,171.42
+606,Roelof van der MerweRE van der Merwe,-,-,-,-,-
+607,Logan van BeekL van Beek,-,-,-,-,-
+608,Fred KlaassenFJ Klaassen,-,-,-,-,-
+609,Paul van MeekerenPA van Meekeren,-,-,-,-,-
+610,Brandon GloverBD Glover,-,-,-,-,-
+611,"Extras (w 2, lb 1)",3,,,,
+612,"Total (4 wickets, 20 overs)",158,,,,
+613,Quinton de KockQ de Kock  c Scott Edwards b Fred Klaassen,13,13,1,1,100
+614,Temba BavumaT Bavuma  b Paul van Meekeren,20,20,2,0,100
+615,Rilee RossouwRR Rossouw  c Max O'Dowd b Brandon Glover,25,19,2,0,131.57
+616,Aiden MarkramAK Markram  c Stephan Myburgh b Fred Klaassen,17,13,2,0,130.76
+617,David MillerDA Miller  c Roelof van der Merwe b Brandon Glover,17,17,1,0,100
+618,Heinrich KlaasenH Klaasen  c Logan van Beek b Bas de Leede,21,18,0,1,116.66
+619,Wayne ParnellWD Parnell  c Scott Edwards b Brandon Glover,0,2,0,0,0
+620,Keshav MaharajKA Maharaj  c Max O'Dowd b Bas de Leede,13,12,0,1,108.33
+621,Kagiso RabadaK Rabada  NOT OUT,9,8,0,0,112.5
+622,Anrich NortjeA Nortje  NOT OUT,4,1,1,0,400
+623,Lungi NgidiL Ngidi,-,-,-,-,-
+624,"Extras (nb 3, w 3)",6,,,,
+625,"Total (8 wickets, 20 overs)",145,,,,
+626,Najmul Hossain ShantoNajmul Hossain Shanto  b Iftikhar Ahmed,54,48,7,0,112.5
+627,Litton DasLitton Das  c Shan Masood b Shaheen Shah Afridi,10,8,0,1,125
+628,Soumya SarkarSoumya Sarkar  c Shan Masood b Shadab Khan,20,17,1,1,117.64
+629,Shakib Al HasanS Al Hasan  lbw Shadab Khan,0,1,0,0,0
+630,Afif HossainAfif Hossain  NOT OUT,24,20,3,0,120
+631,Musaddek HossainMusaddek Hossain  b Shaheen Shah Afridi,5,11,0,0,45.45
+632,Nurul HasanNurul Hasan  c Mohammad Haris b Shaheen Shah Afridi,0,3,0,0,0
+633,Taskin AhmedTaskin Ahmed  c Babar Azam b Shaheen Shah Afridi,1,5,0,0,20
+634,Nasum AhmedNasum Ahmed  c Mohammad Wasim b Haris Rauf,7,6,1,0,116.66
+635,Mustafizur RahmanMustafizur Rahman  NOT OUT,0,1,0,0,0
+636,Ebadot HossainEbadat Hossain,-,-,-,-,-
+637,"Extras (w 1, b 2, lb 3)",6,,,,
+638,"Total (8 wickets, 20 overs)",127,,,,
+639,Muhammad RizwanMuhammad Rizwan  c Najmul Hossain Shanto b Ebadot Hossain,32,32,2,1,100
+640,Babar AzamBabar Azam  c Mustafizur Rahman b Nasum Ahmed,25,33,2,0,75.75
+641,Mohammad NawazMohammad Nawaz  run out (Litton Das),4,11,0,0,36.36
+642,Mohammad HarisMohammad Haris  c Nasum Ahmed b Shakib Al Hasan,31,18,1,2,172.22
+643,Shan MasoodShan Masood  NOT OUT,24,14,2,0,171.42
+644,Iftikhar AhmedIftikhar Ahmed  c Najmul Hossain Shanto b Mustafizur Rahman,1,3,0,0,33.33
+645,Shadab KhanShadab Khan  NOT OUT,0,0,0,0,-
+646,Mohammad WasimMohammad Wasim,-,-,-,-,-
+647,Shaheen Shah AfridiShaheen Shah Afridi,-,-,-,-,-
+648,Naseem ShahNaseem Shah,-,-,-,-,-
+649,Haris RaufHaris Rauf,-,-,-,-,-
+650,"Extras (nb 2, w 2, lb 7)",11,,,,
+651,"Total (5 wickets, 18.1 overs)",128,,,,
+652,KL RahulKL Rahul  c Wellington Masakadza b Sikandar Raza,51,35,3,3,145.71
+653,Rohit SharmaRG Sharma  c Wellington Masakadza b Blessing Muzarabani,15,13,2,0,115.38
+654,Virat KohliV Kohli  c Ryan Burl b Sean Williams,26,25,2,0,104
+655,Suryakumar YadavSK Yadav  NOT OUT,61,25,6,4,244
+656,Rishabh PantRR Pant  c Ryan Burl b Sean Williams,3,5,0,0,60
+657,Hardik PandyaHH Pandya  c Blessing Muzarabani b Richard Ngarava,18,18,2,0,100
+658,Axar PatelAR Patel  NOT OUT,0,0,0,0,-
+659,Ravichandran AshwinR Ashwin,-,-,-,-,-
+660,Bhuvneshwar KumarB Kumar,-,-,-,-,-
+661,Mohammed ShamiMohammed Shami,-,-,-,-,-
+662,Arshdeep SinghArshdeep Singh,-,-,-,-,-
+663,"Extras (nb 1, w 6, lb 5)",12,,,,
+664,"Total (5 wickets, 20 overs)",186,,,,
+665,Wessly MadhevereW Madhevere  c Virat Kohli b Bhuvneshwar Kumar,0,1,0,0,0
+666,Craig ErvineCR Ervine  c & b Hardik Pandya,13,15,2,0,86.66
+667,Regis ChakabvaRW Chakabva  b Arshdeep Singh,0,6,0,0,0
+668,Sean WilliamsSC Williams  c Bhuvneshwar Kumar b Mohammed Shami,11,18,0,1,61.11
+669,Sikandar RazaSikandar Raza  c Suryakumar Yadav b Hardik Pandya,34,24,3,0,141.66
+670,Tony MunyongaT Munyonga  lbw Mohammed Shami,5,4,1,0,125
+671,Ryan BurlRP Burl  b Ravichandran Ashwin,35,22,5,1,159.09
+672,Wellington MasakadzaWP Masakadza  c Rohit Sharma b Ravichandran Ashwin,1,7,0,0,14.28
+673,Richard NgaravaR Ngarava  b Ravichandran Ashwin,1,2,0,0,50
+674,Tendai ChataraTL Chatara  c & b Axar Patel,4,4,1,0,100
+675,Blessing MuzarabaniB Muzarabani  NOT OUT,0,2,0,0,0
+676,"Extras (nb 1, w 7, lb 3)",11,,,,
+677,"Total (all out, 17.2 overs)",115,,,,
